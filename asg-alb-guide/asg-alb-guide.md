@@ -1,4 +1,7 @@
 ### Hosting environment for a web application, one click solution.
+In this guide i'll demononstrade how you can set up a
+resilient and scalable solution for hosting a website using cloudformation
+![Alt text](image.png)
 ###### Things we need.
 1. The EC2 instances themselfs
     * Launch template
