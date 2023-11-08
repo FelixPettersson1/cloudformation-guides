@@ -1165,12 +1165,3 @@ Chaotic IaC by Felix Petersson.
 Mov2022 
 
 ---
-
-Also, when drawing the structure picture, misshapps can happen. Like this one.
-
-![Alt text](image-11.png)
-
-DISCLAIMER I DO NO AGREE with a  
-certain ideologi from the 30's - 40s  
-
-But I did get a good giggle out of that.
