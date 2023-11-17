@@ -57,7 +57,7 @@ Resources:
         SecurityGroupIds:
           - !Ref mySecurityGroup
         KeyName: labb1
-#Script below will ping untill it gets an answer (Aka check for network connectivity)
+#Script below will ping 8.8.8.8 untill it gets an answer (Aka check for network connectivity)
 #Then it'll update dnf, install nginx, start the deamon and enable it
 #Lastly it'll replace the word "If" in the nginx html file to a cheksum of time. 
 #The last line will let you see if the loadbalancer works by having a unique website for each EC2 instance.
