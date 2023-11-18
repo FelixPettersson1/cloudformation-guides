@@ -1,4 +1,4 @@
-# Deploy a webapplication on 2 loadbalanced ec2 machines.
+# Deploy a webapplication on 2 loadbalanced ec2 instances using Code-Pipeline.
 ###### I neglected this for far too long so no chaotic IAC this time.
 ---
 Let's start with a plan
